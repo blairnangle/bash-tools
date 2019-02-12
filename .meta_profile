@@ -1,5 +1,5 @@
 meta_function() {
-    (cd <PATH_TO_META_FUNCTION> && ./meta-function "$@")
+    (cd /Users/<USERNAME>/<PROJECT>/bash-tools && ./meta_function "$@")
 }
 
-alias meta=meta_function;
+alias meta=meta_function
